@@ -29,7 +29,7 @@ flight_analytics/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your_username/flight_analytics.git
+git clone https://github.com/sandhyakasthuri/flight_analytics.git
 cd flight_analytics
 ```
 
