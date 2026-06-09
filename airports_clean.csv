@@ -1,0 +1,16 @@
+icao,iata,shortName,fullName,timeZone,city,latitude,longitude,country_code,country_name,continent_code,continent_name
+EGLL,LHR,Heathrow,London Heathrow,Europe/London,London,51.4706,-0.461941,GB,United Kingdom,EU,Europe
+KJFK,JFK,John F Kennedy,New York John F Kennedy,America/New_York,New York,40.6398,-73.7789,US,United States,,North America
+OMDB,DXB,Dubai,Dubai,Asia/Dubai,Dubai,25.252798,55.3644,AE,United Arab Emirates,AS,Asia
+RJTT,HND,Haneda,Tokyo Haneda,Asia/Tokyo,Tokyo,35.5523,139.78,JP,Japan,AS,Asia
+WSSS,SIN,Changi,Singapore Changi,Asia/Singapore,Singapore,1.35019,103.994,SG,Singapore,AS,Asia
+LFPG,CDG,Charles de Gaulle,Paris Charles de Gaulle,Europe/Paris,Paris,49.0128,2.549999,FR,France,EU,Europe
+KLAX,LAX,Los Angeles,Los Angeles,America/Los_Angeles,Los Angeles,33.9425,-118.408,US,United States,,North America
+YSSY,SYD,Kingsford Smith,Sydney Kingsford Smith,Australia/Sydney,Sydney,-33.9461,151.177,AU,Australia,OC,Australia & Oceania
+SBGR,GRU,Guarulhos - Governador André Franco Montoro,São Paulo Guarulhos - Governador André Franco Montoro,America/Sao_Paulo,São Paulo,-23.435556,-46.473057,BR,Brazil,SA,South America
+FAOR,JNB,Johannesburg OR Tambo,Jo'anna Johannesburg OR Tambo,Africa/Johannesburg,Jo'anna,-26.1392,28.246,ZA,South Africa,AF,Africa
+VIDP,DEL,Indira Gandhi,New Delhi Indira Gandhi,Asia/Kolkata,New Delhi,28.5665,77.1031,IN,India,AS,Asia
+VRMM,MLE,Malé,Malé,Indian/Maldives,Malé,4.19183,73.5291,MV,Maldives,AS,Asia
+PHNL,HNL,Honolulu,Honolulu,Pacific/Honolulu,Honolulu,21.3187,-157.922,US,United States,,North America
+EHAM,AMS,Schiphol,Amsterdam Schiphol,Europe/Amsterdam,Amsterdam,52.3086,4.763889,NL,Netherlands,EU,Europe
+LTFM,IST,Istanbul,Istanbul,Europe/Istanbul,Istanbul,41.275276,28.751944,TR,Turkey,AS,Asia

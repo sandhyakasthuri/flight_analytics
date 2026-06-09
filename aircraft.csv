@@ -1,0 +1,99 @@
+registration,model,icao_type_code,owner,manufacturer
+PH-BXN,Boeing 737,737,KLM,Boeing
+PH-AXM,Airbus A321 NEO,32Q,KLM,Airbus
+PH-NXN,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-BXP,Boeing 737,737,KLM,Boeing
+PH-BCK,Boeing 737-800,738,KLM,Boeing
+PH-BXU,Boeing 737,737,KLM,Boeing
+PH-EXF,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-EXZ,Embraer 175,E75,KLM Cityhopper,Embraer
+PH-AXE,Airbus A321 NEO,32Q,KLM,Airbus
+PH-NXF,Embraer 195-E2,Unknown,KLM,Embraer
+F-HOZC,Airbus A220-300,223,Air France,Airbus
+PH-NXV,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-AXR,Airbus A321 NEO,32Q,KLM,Airbus
+PH-NXR,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-AXG,Airbus A321 NEO,32Q,KLM,Airbus
+PH-BXV,Boeing 737,737,KLM,Boeing
+PH-BXH,Boeing 737,737,KLM,Boeing
+PH-BGG,Boeing 737,737,KLM,Boeing
+PH-BXI,Boeing 737,737,KLM,Boeing
+PH-BXM,Boeing 737,737,KLM,Boeing
+PH-BXO,Boeing 737,737,KLM,Boeing
+PH-EXM,Embraer 175,E75,KLM Cityhopper,Embraer
+PH-AXH,Airbus A321 NEO,32Q,KLM,Airbus
+PH-AXA,Airbus A321 NEO,32Q,KLM,Airbus
+PH-EZM,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-NXY,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-AXI,Airbus A321 NEO,32Q,KLM,Airbus
+PH-BGH,Boeing 737,737,KLM,Boeing
+PH-BCB,Boeing 737,737,KLM,Boeing
+F-GKXC,Airbus A320,320,Air France,Airbus
+PH-AXF,Airbus A321 NEO,32Q,KLM,Airbus
+D-AKJC,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-BGM,Boeing 737,737,KLM,Boeing
+PH-AXC,Airbus A321 NEO,32Q,KLM,Airbus
+PH-EXW,Embraer 175,E75,KLM Cityhopper,Embraer
+PH-NXG,Embraer 195-E2,Unknown,KLM,Embraer
+PH-EZF,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-EXS,Embraer 175,E75,KLM Cityhopper,Embraer
+PH-BXF,Boeing 737,737,KLM,Boeing
+PH-BXC,Boeing 737-800,738,KLM,Boeing
+PH-BCL,Boeing 737-800,738,KLM,Boeing
+PH-HSD,Boeing 737,737,KLM,Boeing
+PH-AXB,Airbus A321 NEO,32Q,KLM,Airbus
+F-HBLH,Embraer 190,E90,HOP!,Embraer
+PH-BGI,Boeing 737,737,KLM,Boeing
+PH-NXP,Embraer 195,E95,KLM Cityhopper,Embraer
+F-HBLE,Embraer 190,E90,HOP!,Embraer
+PH-EXT,Embraer 175,E75,KLM Cityhopper,Embraer
+D-AWSI,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-NXH,Embraer 195-E2,Unknown,KLM,Embraer
+PH-BCA,Boeing 737,737,KLM,Boeing
+PH-BXS,Boeing 737,737,KLM,Boeing
+PH-EXK,Embraer 175,E75,KLM Cityhopper,Embraer
+PH-EXR,Embraer 175,E75,KLM Cityhopper,Embraer
+PH-EXI,Embraer 175,E75,KLM Cityhopper,Embraer
+PH-EXE,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-EXG,Embraer 175,E75,KLM Cityhopper,Embraer
+PH-BCG,Boeing 737-800,738,KLM,Boeing
+PH-BCH,Boeing 737-800,738,KLM,Boeing
+PH-BXB,Boeing 737-800,738,KLM,Boeing
+PH-NXZ,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-BGA,Boeing 737,737,KLM,Boeing
+F-HPNA,Airbus A220-300,223,Air France,Airbus
+PH-EZL,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-AXN,Airbus A321 NEO,32Q,KLM,Airbus
+PH-BGB,Boeing 737,737,KLM,Boeing
+PH-NXS,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-AXK,Airbus A321 NEO,32Q,KLM,Airbus
+F-HBLC,Embraer 190,E90,HOP!,Embraer
+PH-NXI,Embraer 195-E2,Unknown,KLM,Embraer
+PH-BXT,Boeing 737,737,KLM,Boeing
+D-AZFA,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-EXO,Embraer 175,E75,KLM Cityhopper,Embraer
+D-AMWO,Embraer 190,E90,German Sky Airlines,Embraer
+F-HBXD,Embraer 170,E70,HOP!,Embraer
+F-HBLF,Embraer 190,E90,HOP!,Embraer
+PH-EZH,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-EZN,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-NXC,Embraer 195,E95,KLM Cityhopper,Embraer
+D-AIJN,Airbus A320 NEO,32N,Lufthansa City Airlines,Airbus
+PH-BXZ,Boeing 737,737,KLM,Boeing
+PH-BCD,Boeing 737-800,738,KLM,Boeing
+PH-NXU,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-AXL,Airbus A321 NEO,32Q,KLM,Airbus
+PH-EXN,Embraer 175,E75,KLM Cityhopper,Embraer
+VH-EBK,Airbus A330-200,332,Qantas,Airbus
+PH-EZO,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-NXT,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-EZR,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-NXO,Embraer 195,E95,KLM Cityhopper,Embraer
+PH-EXY,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-EZG,Embraer 190,E90,KLM Cityhopper,Embraer
+PH-HSE,Boeing 737,737,KLM,Boeing
+N672UA,Boeing 767-300,76W,United Airlines,Boeing
+PH-EXX,Embraer 175,E75,KLM Cityhopper,Embraer
+VH-XZG,Boeing 737-800,738,Qantas,Boeing
+PH-BXE,Boeing 737,737,KLM,Boeing
+PH-AXD,Airbus A321 NEO,32Q,KLM,Airbus
