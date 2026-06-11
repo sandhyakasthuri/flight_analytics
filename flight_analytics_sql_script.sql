@@ -3,6 +3,19 @@ CREATE DATABASE flight_analytics;
 SELECT table_name FROM information_schema.tables 
 WHERE table_schema = 'public';
 
+-- airport table
+ALTER TABLE airport ADD PRIMARY KEY (iata);
+ALTER TABLE airport ADD UNIQUE (icao);
+
+-- aircraft table
+ALTER TABLE aircraft ADD PRIMARY KEY (registration);
+
+-- flights table
+ALTER TABLE flights ADD PRIMARY KEY (flight_id);
+
+-- airport_delays table
+ALTER TABLE airport_delays ADD PRIMARY KEY (airport_iata);
+
 SELECT * FROM airport LIMIT 5;
 SELECT * FROM flights LIMIT 5;
 SELECT * FROM aircraft LIMIT 5;
